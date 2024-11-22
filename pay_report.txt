@@ -1,0 +1,38 @@
+Pay Report
+========================================
+Caregiver: Abby (family)
+  Week 1: $0.00
+  Week 2: $0.00
+  Week 3: $0.00
+  Week 4: $0.00
+  Week 5: $0.00
+  Week 6: $0.00
+  Monthly Total: $0.00
+
+Caregiver: Madison (paid)
+  Week 1: $240.00
+  Week 2: $0.00
+  Week 3: $0.00
+  Week 4: $0.00
+  Week 5: $0.00
+  Week 6: $0.00
+  Monthly Total: $240.00
+
+Caregiver: Luke (family)
+  Week 1: $0.00
+  Week 2: $0.00
+  Week 3: $0.00
+  Week 4: $0.00
+  Week 5: $0.00
+  Week 6: $0.00
+  Monthly Total: $0.00
+
+========================================
+Totals:
+  Week 1: $240.00
+  Week 2: $0.00
+  Week 3: $0.00
+  Week 4: $0.00
+  Week 5: $0.00
+  Week 6: $0.00
+  Monthly Total: $240.00
