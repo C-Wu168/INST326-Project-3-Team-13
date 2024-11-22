@@ -1,22 +1,22 @@
 Pay Report
 ========================================
-Caregiver: Abby (family)
-  Week 1: $0.00
-  Week 2: $0.00
-  Week 3: $0.00
-  Week 4: $0.00
+Caregiver: Abby (paid)
+  Week 1: $600.00
+  Week 2: $600.00
+  Week 3: $600.00
+  Week 4: $480.00
   Week 5: $0.00
-  Week 6: $0.00
-  Monthly Total: $0.00
+  Week 6: $480.00
+  Monthly Total: $2760.00
 
-Caregiver: Madison (paid)
-  Week 1: $240.00
-  Week 2: $0.00
-  Week 3: $0.00
-  Week 4: $0.00
+Caregiver: Greg (paid)
+  Week 1: $600.00
+  Week 2: $600.00
+  Week 3: $600.00
+  Week 4: $480.00
   Week 5: $0.00
-  Week 6: $0.00
-  Monthly Total: $240.00
+  Week 6: $360.00
+  Monthly Total: $2640.00
 
 Caregiver: Luke (family)
   Week 1: $0.00
@@ -27,12 +27,67 @@ Caregiver: Luke (family)
   Week 6: $0.00
   Monthly Total: $0.00
 
-========================================
-Totals:
-  Week 1: $240.00
+Caregiver: Emma (family)
+  Week 1: $0.00
   Week 2: $0.00
   Week 3: $0.00
   Week 4: $0.00
   Week 5: $0.00
   Week 6: $0.00
-  Monthly Total: $240.00
+  Monthly Total: $0.00
+
+Caregiver: Sophia (paid)
+  Week 1: $120.00
+  Week 2: $120.00
+  Week 3: $120.00
+  Week 4: $120.00
+  Week 5: $0.00
+  Week 6: $120.00
+  Monthly Total: $600.00
+
+Caregiver: Ethan (paid)
+  Week 1: $0.00
+  Week 2: $0.00
+  Week 3: $0.00
+  Week 4: $0.00
+  Week 5: $0.00
+  Week 6: $0.00
+  Monthly Total: $0.00
+
+Caregiver: Olivia (family)
+  Week 1: $0.00
+  Week 2: $0.00
+  Week 3: $0.00
+  Week 4: $0.00
+  Week 5: $0.00
+  Week 6: $0.00
+  Monthly Total: $0.00
+
+Caregiver: Noah (family)
+  Week 1: $0.00
+  Week 2: $0.00
+  Week 3: $0.00
+  Week 4: $0.00
+  Week 5: $0.00
+  Week 6: $0.00
+  Monthly Total: $0.00
+
+========================================
+Totals:
+  Week 1: $1320.00
+  Week 2: $1320.00
+  Week 3: $1320.00
+  Week 4: $1080.00
+  Week 5: $0.00
+  Week 6: $960.00
+  Monthly Total: $6000.00
+
+Monthly total by caregiver:
+Abby: $2760.00
+Greg: $2640.00
+Luke: $0.00
+Emma: $0.00
+Sophia: $600.00
+Ethan: $0.00
+Olivia: $0.00
+Noah: $0.00
